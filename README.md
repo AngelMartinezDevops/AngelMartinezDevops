@@ -19,10 +19,6 @@
 
 <br>
 
----
-
-<br>
-
 ## 📺 Media & Selfhosted
 
 ### [MediaStack](https://github.com/AngelMartinezDevops/MediaStack) - Complete media automation stack
@@ -34,10 +30,6 @@
 ![Prowlarr](https://img.shields.io/badge/Prowlarr-FF6347?style=flat)
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-3BB9FF?style=flat)
 ![Jellyseerr](https://img.shields.io/badge/Jellyseerr-A020F0?style=flat)
-
-<br>
-
----
 
 <br>
 

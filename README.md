@@ -2,14 +2,22 @@
 
 ## 🍎 Hackintosh / EFI
 
+</div>
+
 ### [EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) - Opencore EFI for Lenovo Thinkpad X270
+
+<div align="center">
 
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)
 ![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen?logo=apple)
 ![Intel](https://img.shields.io/badge/Intel_i5--6300U-0071C5?style=flat&logo=intel&logoColor=white)
 ![Skylake](https://img.shields.io/badge/Skylake-6th_Gen-0071C5?style=flat)
 
+</div>
+
 ### [EFI-Asus-Maximus-Hero-XI](https://github.com/AngelMartinezDevops/EFI-Asus-Maximus-Hero-XI) - Opencore EFI for Asus ROG Maximus XI
+
+<div align="center">
 
 ![OpenCore](https://img.shields.io/badge/OpenCore-1.0.0-blue)
 ![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen?logo=apple)
@@ -17,9 +25,17 @@
 ![Z390](https://img.shields.io/badge/Z390-Coffee_Lake-0071C5?style=flat)
 ![AMD GPU](https://img.shields.io/badge/AMD_GPU-Radeon-ED1C24?style=flat&logo=amd&logoColor=white)
 
+</div>
+
+<div align="center">
+
 ## 📺 Media & Selfhosted
 
+</div>
+
 ### [MediaStack](https://github.com/AngelMartinezDevops/MediaStack) - Complete media automation stack
+
+<div align="center">
 
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Sonarr](https://img.shields.io/badge/Sonarr-35C5F4?style=flat)
@@ -29,9 +45,17 @@
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-3BB9FF?style=flat)
 ![Jellyseerr](https://img.shields.io/badge/Jellyseerr-A020F0?style=flat)
 
+</div>
+
+<div align="center">
+
 ## 🎮 Gaming & Game Servers
 
+</div>
+
 ### [rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025) - Modernized Rust dedicated server
+
+<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -39,7 +63,11 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-000000?style=flat&logo=steam&logoColor=white)
 
+</div>
+
 ### [base-2025](https://github.com/AngelMartinezDevops/base-2025) - Base Docker image for game servers
+
+<div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)

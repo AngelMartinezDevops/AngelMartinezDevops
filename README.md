@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### [rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025)
 Modernized Rust dedicated server with Ubuntu 22.04 and Node.js 20
@@ -11,7 +11,9 @@ Modernized Rust dedicated server with Ubuntu 22.04 and Node.js 20
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 ### [base-2025](https://github.com/AngelMartinezDevops/base-2025)
 Base Docker image for game servers (Ubuntu 22.04 + SteamCMD)

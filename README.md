@@ -6,5 +6,8 @@
 - **[EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270)** - Opencore para Lenovo Thinkpad X270
 - **[EFI-Asus-Maximus-Hero-XI](https://github.com/AngelMartinezDevops/EFI-Asus-Maximus-Hero-XI)** - Opencore para Asus ROG Maximus Hero XI MOBO
 
+## 📺 Media & Selfhosted
+- **[MediaStack](https://github.com/AngelMartinezDevops/MediaStack)** - Stack completo de automatización de medios (Sonarr, Radarr, qBittorrent, Jellyseerr)
+
 ## 🛠️ Tech Stack
 `Docker` `Terraform` `Ansible` `Jenkins` `Bitbucket` `Kubernetes` `Azure`

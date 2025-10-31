@@ -1,16 +1,3 @@
-<div align="center">
-
-# 👨‍💻 Ángel Martínez
-
-**DevOps Engineer | Cloud Infrastructure | Automation Enthusiast**
-
-[![GitHub followers](https://img.shields.io/github/followers/AngelMartinezDevops?style=social)](https://github.com/AngelMartinezDevops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/angel-martinez)
-
-</div>
-
----
-
 ## 🎮 Gaming & Game Servers
 
 <table>

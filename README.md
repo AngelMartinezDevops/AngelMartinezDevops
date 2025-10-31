@@ -37,6 +37,14 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-000000?style=flat&logo=steam&logoColor=white)
 
+### [ark-server-2025](https://github.com/AngelMartinezDevops/ark-server-2025) - ARK: Survival Evolved dedicated server
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_20-339933?style=flat&logo=nodedotjs&logoColor=white)
+![ARK](https://img.shields.io/badge/ARK-8B4513?style=flat)
+![SteamCMD](https://img.shields.io/badge/SteamCMD-000000?style=flat&logo=steam&logoColor=white)
+
 ### [base-2025](https://github.com/AngelMartinezDevops/base-2025) - Base Docker image for game servers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)

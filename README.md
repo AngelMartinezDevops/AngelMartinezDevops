@@ -14,4 +14,4 @@
 
 • **[ark-server-2025](https://github.com/AngelMartinezDevops/ark-server-2025)** - ARK: Survival Evolved dedicated server
 
-• **[base-2025](https://github.com/AngelMartinezDevops/base-2025)** - Base Docker image for game servers
+• **[base-2025](https://github.com/AngelMartinezDevops/base-2025)** - Base Docker image for STEAMCMD game servers

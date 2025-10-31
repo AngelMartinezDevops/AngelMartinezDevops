@@ -1,4 +1,8 @@
+<div align="center">
+
 ## 🎮 Gaming & Game Servers
+
+</div>
 
 ### [rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025) - Modernized Rust dedicated server
 
@@ -8,8 +12,6 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-000000?style=flat&logo=steam&logoColor=white)
 
----
-
 ### [base-2025](https://github.com/AngelMartinezDevops/base-2025) - Base Docker image for game servers
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -17,9 +19,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js_20-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![SteamCMD](https://img.shields.io/badge/SteamCMD-000000?style=flat&logo=steam&logoColor=white)
 
+<br>
+
 ---
 
+<br>
+
+<div align="center">
+
 ## 🍎 Hackintosh / EFI
+
+</div>
 
 ### [EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) - Opencore EFI for Lenovo Thinkpad X270
 
@@ -27,8 +37,6 @@
 ![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen?logo=apple)
 ![Intel](https://img.shields.io/badge/Intel_i5--6300U-0071C5?style=flat&logo=intel&logoColor=white)
 ![Skylake](https://img.shields.io/badge/Skylake-6th_Gen-0071C5?style=flat)
-
----
 
 ### [EFI-Asus-Maximus-Hero-XI](https://github.com/AngelMartinezDevops/EFI-Asus-Maximus-Hero-XI) - Opencore EFI for Asus ROG Maximus XI
 
@@ -38,9 +46,17 @@
 ![Z390](https://img.shields.io/badge/Z390-Coffee_Lake-0071C5?style=flat)
 ![AMD GPU](https://img.shields.io/badge/AMD_GPU-Radeon-ED1C24?style=flat&logo=amd&logoColor=white)
 
+<br>
+
 ---
 
+<br>
+
+<div align="center">
+
 ## 📺 Media & Selfhosted
+
+</div>
 
 ### [MediaStack](https://github.com/AngelMartinezDevops/MediaStack) - Complete media automation stack
 

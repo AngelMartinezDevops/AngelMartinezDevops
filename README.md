@@ -10,7 +10,7 @@
 
 ## Games & Servers
 
-• **[rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025)** - Modernized Rust dedicated server
+• **[rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025)** - Rust dedicated server
 
 • **[ark-server-2025](https://github.com/AngelMartinezDevops/ark-server-2025)** - ARK: Survival Evolved dedicated server
 

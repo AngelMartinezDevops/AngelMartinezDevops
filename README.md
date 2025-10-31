@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🍎 Hackintosh / EFI
+## Hackintosh / EFI
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-## 📺 Media & Selfhosted
+## Media & Selfhosted
 
 </div>
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-## 🎮 Gaming & Game Servers
+## Games & Servers
 
 </div>
 

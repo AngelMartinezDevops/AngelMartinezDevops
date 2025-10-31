@@ -31,7 +31,7 @@ Base Docker image for game servers (Ubuntu 22.04 + SteamCMD)
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### [EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270)
 Opencore EFI for Lenovo Thinkpad X270
@@ -40,7 +40,9 @@ Opencore EFI for Lenovo Thinkpad X270
 ![macOS](https://img.shields.io/badge/macOS-Ventura-brightgreen?logo=apple)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="100%">
 
 ### [EFI-Asus-Maximus-Hero-XI](https://github.com/AngelMartinezDevops/EFI-Asus-Maximus-Hero-XI)
 Opencore EFI for Asus ROG Maximus Hero XI (Z390)

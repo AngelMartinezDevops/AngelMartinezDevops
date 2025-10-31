@@ -2,8 +2,6 @@
 
 ## 🎮 Gaming & Game Servers
 
-</div>
-
 ### [rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025) - Modernized Rust dedicated server
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -25,11 +23,7 @@
 
 <br>
 
-<div align="center">
-
 ## 🍎 Hackintosh / EFI
-
-</div>
 
 ### [EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) - Opencore EFI for Lenovo Thinkpad X270
 
@@ -52,11 +46,7 @@
 
 <br>
 
-<div align="center">
-
 ## 📺 Media & Selfhosted
-
-</div>
 
 ### [MediaStack](https://github.com/AngelMartinezDevops/MediaStack) - Complete media automation stack
 
@@ -67,3 +57,5 @@
 ![Prowlarr](https://img.shields.io/badge/Prowlarr-FF6347?style=flat)
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-3BB9FF?style=flat)
 ![Jellyseerr](https://img.shields.io/badge/Jellyseerr-A020F0?style=flat)
+
+</div>

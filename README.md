@@ -68,23 +68,3 @@ Complete media automation stack with Sonarr, Radarr, qBittorrent, and Jellyseerr
 </td>
 </tr>
 </table>
-
----
-
-## 🛠️ Tech Stack
-
-```text
-🐳 Containers    → Docker, Kubernetes (AKS)
-☁️  Cloud        → Azure, Terraform
-⚙️  Automation   → Ansible, Jenkins
-📦 Repositories  → Bitbucket, GitHub
-🔍 Monitoring    → Consul
-```
-
----
-
-<div align="center">
-
-**💡 Building infrastructure and automating everything**
-
-</div>

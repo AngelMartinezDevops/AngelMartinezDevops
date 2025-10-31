@@ -1,8 +1,4 @@
-<div align="center">
-
-## Hackintosh / EFI
-
-</div>
+## • Hackintosh / EFI
 
 ### [EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) - Opencore EFI for Lenovo Thinkpad X270
 
@@ -19,11 +15,7 @@
 ![Z390](https://img.shields.io/badge/Z390-Coffee_Lake-0071C5?style=flat)
 ![AMD GPU](https://img.shields.io/badge/AMD_GPU-Radeon-ED1C24?style=flat&logo=amd&logoColor=white)
 
-<div align="center">
-
-## Media & Selfhosted
-
-</div>
+## • Media & Selfhosted
 
 ### [MediaStack](https://github.com/AngelMartinezDevops/MediaStack) - Complete media automation stack
 
@@ -35,11 +27,7 @@
 ![qBittorrent](https://img.shields.io/badge/qBittorrent-3BB9FF?style=flat)
 ![Jellyseerr](https://img.shields.io/badge/Jellyseerr-A020F0?style=flat)
 
-<div align="center">
-
-## Games & Servers
-
-</div>
+## • Games & Servers
 
 ### [rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025) - Modernized Rust dedicated server
 

@@ -1,9 +1,3 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile. I'm a DevOps Engineer passionate about automation, infrastructure as code, and cloud technologies.
-
----
-
 ## 🏗️ Infrastructure & Automation
 
 ### Kubernetes & Cloud
@@ -52,13 +46,3 @@ Welcome to my GitHub profile. I'm a DevOps Engineer passionate about automation,
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
----
-
-## 📫 Get in Touch
-
-Feel free to explore my repositories and reach out if you have any questions or want to collaborate!
-
----
-
-**Made with ❤️ for the DevOps and HomeLab community**

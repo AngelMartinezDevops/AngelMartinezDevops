@@ -6,10 +6,6 @@
 
 • **[azure-metrics-exporter](https://github.com/AngelMartinezDevops/azure-metrics-exporter)** - Azure Monitor metrics to Prometheus with Helm chart and GitOps
 
-### Configuration Management
-
-• **[ansible-batch-log-predator](https://github.com/AngelMartinezDevops/ansible-batch-log-predator)** - Ansible playbook for automated log collection from Azure VMs
-
 ---
 
 ## 📦 Applications & Services

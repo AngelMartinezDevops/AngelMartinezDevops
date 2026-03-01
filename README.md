@@ -41,7 +41,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**portfolio**](https://github.com/AngelMartinezDevops/portfolio) | Personal portfolio. HTML, CSS, deployed on Cloudflare Pages. |
+| [**portfolio**](https://github.com/AngelMartinezDevops/portfolio) | Personal CV and portfolio. HTML, CSS, Cloudflare Pages. |
 | [**angelignaciomartinez.com**](https://angelignaciomartinez.com) | → Live site |
 
 ---

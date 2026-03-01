@@ -20,7 +20,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**MediaStack**](https://github.com/AngelMartinezDevops/MediaStack) | Complete media automation: Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr, Bazarr. Docker Compose. |
+| [**media-stack**](https://github.com/AngelMartinezDevops/MediaStack) | Complete media automation: Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr, Bazarr. Docker Compose. |
 | [**whisper-transcriber**](https://github.com/AngelMartinezDevops/whisper-transcriber) | Transcribe video/audio to text using OpenAI Whisper. Python + FFmpeg. Windows 11 guide. |
 
 ### 🎮 Game Servers
@@ -35,7 +35,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**EFI-Lenovo-Thinkpad-X270**](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) | OpenCore EFI for Lenovo ThinkPad X270. macOS Ventura, Intel HD 520. |
+| [**EFI-lenovo-thinkpad-X270**](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) | OpenCore EFI for Lenovo ThinkPad X270. macOS Ventura, Intel HD 520. |
 
 ### 🌐 Web & Portfolio
 
@@ -65,7 +65,3 @@
 
 ---
 
-## 📊 Stats
-
-![GitHub followers](https://img.shields.io/github/followers/AngelMartinezDevops?style=social)
-![Repos](https://img.shields.io/badge/repos-10%20public-blue)

@@ -1,3 +1,9 @@
+# Angel Martínez — Infrastructure & DevOps
+
+Personal profile repository: infrastructure projects, automation, game servers, and homelab configs.
+
+---
+
 ## 🏗️ Infrastructure & Automation
 
 ### Kubernetes & Cloud

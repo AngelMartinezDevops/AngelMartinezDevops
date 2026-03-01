@@ -13,35 +13,38 @@
 
 | Project | Description |
 |---------|-------------|
-| [**proxmox-k3s-lab**](https://github.com/AngelMartinezDevops/proxmox-k3s-lab) | Automated K3s cluster on Proxmox with Terraform and Ansible. 1 master + 2 workers. |
-| [**azure-metrics-exporter**](https://github.com/AngelMartinezDevops/azure-metrics-exporter) | Export Azure Monitor metrics to Prometheus. Helm chart, GitOps-ready, ArgoCD integration. |
+| [**proxmox-k3s-lab**](https://github.com/AngelMartinezDevops/proxmox-k3s-lab) | Automated K3s cluster on Proxmox with Terraform and Ansible. 1 master + 2 workers |
+| [**azure-metrics-exporter**](https://github.com/AngelMartinezDevops/azure-metrics-exporter) | Export Azure Monitor metrics to Prometheus. Helm chart, GitOps-ready, ArgoCD integration |
 
 ### 📦 Applications & Self-Hosted
 
 | Project | Description |
 |---------|-------------|
-| [**media-stack**](https://github.com/AngelMartinezDevops/MediaStack) | Complete media automation: Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr, Bazarr. Docker Compose. |
-| [**whisper-transcriber**](https://github.com/AngelMartinezDevops/whisper-transcriber) | Transcribe video/audio to text using OpenAI Whisper. Python + FFmpeg. Windows 11 guide. |
+| [**media-stack**](https://github.com/AngelMartinezDevops/MediaStack) | Complete media automation: Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr, Bazarr. Docker Compose |
+| [**whisper-transcriber**](https://github.com/AngelMartinezDevops/whisper-transcriber) | Transcribe video/audio to text using OpenAI Whisper. Python + FFmpeg. Windows 11 guide |
 
 ### 🎮 Game Servers
 
 | Project | Description |
 |---------|-------------|
-| [**rust-server-2025**](https://github.com/AngelMartinezDevops/rust-server-2025) | Rust dedicated server. Ubuntu 22.04, Node 20, WebRCON, Rust+ support. |
-| [**ark-server-2025**](https://github.com/AngelMartinezDevops/ark-server-2025) | ARK: Survival Evolved dedicated server. SteamCMD, RCON, mods, cluster support. |
-| [**base-2025**](https://github.com/AngelMartinezDevops/base-2025) | Base Docker image: Ubuntu 22.04 + Node.js 20 + SteamCMD for game servers. |
+| [**rust-server-2025**](https://github.com/AngelMartinezDevops/rust-server-2025) | Rust dedicated server. Ubuntu 22.04, Node 20, WebRCON, Rust+ support |
+| [**ark-server-2025**](https://github.com/AngelMartinezDevops/ark-server-2025) | ARK: Survival Evolved dedicated server. SteamCMD, RCON, mods, cluster support |
+| [**base-2025**](https://github.com/AngelMartinezDevops/base-2025) | Base Docker image: Ubuntu 22.04 + Node.js 20 + SteamCMD for game servers |
 
 ### 💻 Hackintosh / EFI
 
 | Project | Description |
 |---------|-------------|
-| [**EFI-lenovo-thinkpad-X270**](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) | OpenCore EFI for Lenovo ThinkPad X270. macOS Ventura, Intel HD 520. |
+| [**Thinkpad-X270**](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) | OpenCore EFI for Lenovo ThinkPad X270 |
+| [**Maximus-Hero-XI**](https://github.com/AngelMartinezDevops/EFI-asus-maximus-hero-XI) | OpenCore EFI for Asus ROG - Maximus Hero XI Motherboard |
+
+https://github.com/AngelMartinezDevops/EFI-asus-maximus-hero-XI
 
 ### 🌐 Web & Portfolio
 
 | Project | Description |
 |---------|-------------|
-| [**portfolio**](https://github.com/AngelMartinezDevops/portfolio) | Personal CV and portfolio. HTML, CSS, Cloudflare Pages. |
+| [**portfolio**](https://github.com/AngelMartinezDevops/portfolio) | Personal CV and portfolio. HTML, CSS, Cloudflare Pages |
 | [**angelignaciomartinez.com**](https://angelignaciomartinez.com) | → Live site |
 
 ---

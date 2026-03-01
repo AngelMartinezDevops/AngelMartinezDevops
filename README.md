@@ -1,44 +1,52 @@
-# Angel Martínez — Infrastructure & DevOps
+# Angel Martínez
 
-Personal profile repository: infrastructure projects, automation, game servers, and homelab configs.
+**DevOps Engineer** · Infrastructure · Automation · Homelab
 
----
-
-## 🏗️ Infrastructure & Automation
-
-### Kubernetes & Cloud
-
-• **[proxmox-k3s-lab](https://github.com/AngelMartinezDevops/proxmox-k3s-lab)** - Automated K3s cluster on Proxmox with Terraform and Ansible
-
-• **[azure-metrics-exporter](https://github.com/AngelMartinezDevops/azure-metrics-exporter)** - Azure Monitor metrics to Prometheus with Helm chart and GitOps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelignaciomartinez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-angelignaciomartinez.com-333?style=flat)](https://angelignaciomartinez.com)
 
 ---
 
-## 📦 Applications & Services
+## 🗂️ Repositories Index
 
-### Media Stack
+### 🏗️ Infrastructure & Cloud
 
-• **[MediaStack](https://github.com/AngelMartinezDevops/MediaStack)** - Complete media automation stack with Docker Compose (Sonarr, Radarr, qBittorrent, Jellyseerr)
+| Project | Description |
+|---------|-------------|
+| [**proxmox-k3s-lab**](https://github.com/AngelMartinezDevops/proxmox-k3s-lab) | Automated K3s cluster on Proxmox with Terraform and Ansible. 1 master + 2 workers. |
+| [**azure-metrics-exporter**](https://github.com/AngelMartinezDevops/azure-metrics-exporter) | Export Azure Monitor metrics to Prometheus. Helm chart, GitOps-ready, ArgoCD integration. |
 
-### Game Servers
+### 📦 Applications & Self-Hosted
 
-• **[rust-server-2025](https://github.com/AngelMartinezDevops/rust-server-2025)** - Rust dedicated server with Docker
+| Project | Description |
+|---------|-------------|
+| [**MediaStack**](https://github.com/AngelMartinezDevops/MediaStack) | Complete media automation: Sonarr, Radarr, Prowlarr, qBittorrent, Jellyseerr, Bazarr. Docker Compose. |
+| [**whisper-transcriber**](https://github.com/AngelMartinezDevops/whisper-transcriber) | Transcribe video/audio to text using OpenAI Whisper. Python + FFmpeg. Windows 11 guide. |
 
-• **[ark-server-2025](https://github.com/AngelMartinezDevops/ark-server-2025)** - ARK: Survival Evolved dedicated server with Docker
+### 🎮 Game Servers
 
-• **[base-2025](https://github.com/AngelMartinezDevops/base-2025)** - Base Docker image for SteamCMD game servers
+| Project | Description |
+|---------|-------------|
+| [**rust-server-2025**](https://github.com/AngelMartinezDevops/rust-server-2025) | Rust dedicated server. Ubuntu 22.04, Node 20, WebRCON, Rust+ support. |
+| [**ark-server-2025**](https://github.com/AngelMartinezDevops/ark-server-2025) | ARK: Survival Evolved dedicated server. SteamCMD, RCON, mods, cluster support. |
+| [**base-2025**](https://github.com/AngelMartinezDevops/base-2025) | Base Docker image: Ubuntu 22.04 + Node.js 20 + SteamCMD for game servers. |
+
+### 💻 Hackintosh / EFI
+
+| Project | Description |
+|---------|-------------|
+| [**EFI-Lenovo-Thinkpad-X270**](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270) | OpenCore EFI for Lenovo ThinkPad X270. macOS Ventura, Intel HD 520. |
+
+### 🌐 Web & Portfolio
+
+| Project | Description |
+|---------|-------------|
+| [**portfolio**](https://github.com/AngelMartinezDevops/portfolio) | Personal portfolio. HTML, CSS, deployed on Cloudflare Pages. |
+| [**angelignaciomartinez.com**](https://angelignaciomartinez.com) | → Live site |
 
 ---
 
-## 💻 Hackintosh / EFI
-
-• **[EFI-Lenovo-Thinkpad-X270](https://github.com/AngelMartinezDevops/EFI-Lenovo-Thinkpad-X270)** - OpenCore EFI for Lenovo ThinkPad X270
-
-• **[EFI-Asus-Maximus-Hero-XI](https://github.com/AngelMartinezDevops/EFI-Asus-Maximus-Hero-XI)** - OpenCore EFI for Asus ROG Maximus XI Hero
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
@@ -48,3 +56,11 @@ Personal profile repository: infrastructure projects, automation, game servers, 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📊 Stats
+
+![GitHub followers](https://img.shields.io/github/followers/AngelMartinezDevops?style=social)
+![Repos](https://img.shields.io/badge/repos-10%20public-blue)
